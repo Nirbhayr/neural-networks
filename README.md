@@ -6,9 +6,7 @@ or improper documentation in the code. However, I plan to regulary update and ad
 This goal is to make a repo for beginners who are new to python, `pytorch`, neural networks, and deep learning. A lot of repos (very good) are out there which may contain
 what you are searching for. But, what I have done in this repo is to manually implement many of things under the hood, which you _may_ not get to see on medium!!
 
-- Neural networks from scratch (using tensors and not numpy). Using `tensors` for the task has two main pros. First, all the DL frameworks like `tf` heavily use tensors and
-using `numpy` does not really give you the feel which you need at this stage as a beginner. Understanding tensor based operations and manipulations does take time (regardless
-of what "experts" tell you) so don't worry if you cannot follow a few steps. However, I have tried to heavily comment the code to the point that it may even feel spammed to
+- Neural networks from scratch (using tensors and not numpy). DL frameworks like `tf` heavily use tensors but using `numpy` does not really give you the feel which you need at this stage as a beginner. Understanding tensor based operations and manipulations does take time (regardless of what "experts" tell you) so don't worry if you cannot follow a few steps. However, I have tried to heavily comment the code to the point that it may even feel spammed to
 some. But, as I mentioned earlier this is for beginners. I would highly recommend the `d2L` book and its website for starting if you are an absolute beginner. You can interlace these notebooks with the book for your learning.  
 
 Mastering deep learning concepts both theoretically and practically takes months so be patient and consistent. Code somehting daily. Try to implement something that you 
