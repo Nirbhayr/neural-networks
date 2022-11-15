@@ -4,7 +4,7 @@ This repo includes notebooks containing implementation of neural networks, mostl
 or improper documentation in the code. However, I plan to regulary update and add new codes as I build more. 
 
 This goal is to make a repo for beginners who are new to python, `pytorch`, neural networks, and deep learning. A lot of repos (very good) are out there which may contain
-what you are searching for. But, what I have done in this repo is to manually implement many of things under the hood, which you do not get to see on medium!!
+what you are searching for. But, what I have done in this repo is to manually implement many of things under the hood, which you _may_ not get to see on medium!!
 
 - Neural networks from scratch (using tensors and not numpy). Using `tensors` for the task has two main pros. First, all the DL frameworks like `tf` heavily use tensors and
 using `numpy` does not really give you the feel which you need at this stage as a beginner. Understanding tensor based operations and manipulations does take time (regardless
